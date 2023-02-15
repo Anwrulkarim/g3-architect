@@ -1,0 +1,14 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* G3 Architects */
+.header{
+    position: absolute;
+width: 302px;
+height: 53px;
+left: 240px;
+top: 56px;
+}
