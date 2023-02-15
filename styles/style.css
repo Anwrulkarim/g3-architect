@@ -61,4 +61,9 @@ button{
     border-color: #FF900E;
     padding: 10px 10px;
     border-radius: 5px;
+    margin-bottom: 30px;
+}
+.container-1 img{
+    width: 100%;
+
 }
