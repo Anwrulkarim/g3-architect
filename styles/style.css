@@ -55,3 +55,10 @@ nav ul {
     text-align: center;
     color: #727272;
 }
+button{
+    color: aliceblue;
+    background-color: #FF900E;
+    border-color: #FF900E;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
