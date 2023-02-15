@@ -1,25 +1,56 @@
 /* fonts */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:ital,wght@0,100;0,200;0,400;0,600;1,600&display=swap');
+body{
+    font-family: 'Work Sans', sans-serif;
+}
 
 nav {
     display: flex;
     justify-content: space-between;
-    
+
 
 }
-nav li{
+
+nav li {
     list-style: none;
     margin-right: 50px;
     margin-top: 50px;
 
 }
-nav ul{
+
+nav ul {
     display: flex;
-    
+
 }
 
 .title {
     font-weight: 700;
     font-size: 45px;
 
+}
+
+.title-2 {
+    font-weight: ;
+    font-size: 64px;
+}
+
+.container-1 {
+
+    position: absolute;
+    border: 1px solid white;
+    width: 862px;
+    height: 225px;
+    left: 380px;
+    top: 206px;
+    text-align: center;
+
+}
+
+.container-1 p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    border: 1px solid white;
+    text-align: center;
+    color: #727272;
 }
