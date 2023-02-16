@@ -39,8 +39,6 @@ nav ul {
 /* body container-1 style started */
 .container-1 {
 
-
-
     border: 1px solid white;
     /* width: 300px; */
     /* height: 225px; */
@@ -48,20 +46,15 @@ nav ul {
     /* top: 206px; */
     text-align: center;
 
-
 }
 
-.container-1 p {
-
-
-    /* font-weight: 400; */
-    font-size: 16px;
-    /* line-height: 26px; */
+.blog-1 p {
+    font-size: small;
     border: 1px solid white;
     text-align: center;
-
     color: #727272;
 }
+
 
 button {
 
@@ -73,7 +66,7 @@ button {
     margin-bottom: 30px;
 }
 
-.container-1 .tpb {
+.container-1 .blog-1 {
     position: absolute;
     margin-left: 240px;
     margin-right: 240px;
@@ -89,8 +82,6 @@ button {
     margin-top: 300px;
     width: 80%;
     height: 80%;
-
-
 }
 
 /* body container 1 styling end */
@@ -144,6 +135,12 @@ button {
     font-size: small;
 }
 
+.blog-2 p {
+    font-size: small;
+    color: #727272;
+
+}
+
 .blog-3-h {
     color: black;
 }
@@ -158,9 +155,9 @@ button {
 }
 
 /* <!-- container 3 tail started--> */
-.box{
+.box {
     position: relative;
-    left:600px;
+    left: 600px;
     bottom: 400px;
     width: 10%;
     height: 10%;
@@ -169,7 +166,7 @@ button {
     border: 1px solid;
     border-radius: 5px;
     text-align: center;
-    
+
 }
 
 /* container 3 tail ended */
@@ -177,42 +174,40 @@ button {
 
 /* container-4 stated */
 
-.container-4{
+.container-4 {
     position: relative;
     bottom: 300px;
     left: 130px;
     width: 30%;
 }
-.blog-4 h2{
+
+.blog-4 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font:bolder;
+    font: bolder;
     font-size: xx-large;
 }
-.blog-4 p{
+
+.blog-4 p {
     font-size: small;
     color: #727272;
 }
 
-.container-4-icon{
+.container-4-icon {
     position: relative;
     left: 400px;
     bottom: 250px;
     display: flex;
     width: 45%;
     gap: 65px;
-   
+
 
 }
-.container-4-icon p{
+
+.container-4-icon p {
     font-size: small;
     color: hsl(0, 2%, 25%);
 }
-.container-4-icon h2{
+
+.container-4-icon h2 {
     color: rgb(29, 28, 28);
 }
-
-
-    
-   
-    
-    
