@@ -16,17 +16,17 @@ nav li {
 
     list-style: none;
     margin-right: 50px;
-    margin-top: 50px;
+    margin-top: 17px;
 }
 
 nav ul {
     display: flex;
-    margin-right: 240px;
+    margin-right: 100px;
 }
 
 .title {
-    font-size: 50px;
-    margin-left: 240px;
+    font-size: 30px;
+    margin-left: 120px;
 }
 
 .title-2 {
