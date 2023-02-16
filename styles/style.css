@@ -30,8 +30,8 @@ nav ul {
 }
 
 .title-2 {
-    font-weight: ;
-    font-size: 64px;
+    font-weight:800px ;
+    font-size: 50px;
 }
 
 /* header & nav style end/ */
@@ -52,6 +52,7 @@ nav ul {
 }
 
 .container-1 p {
+    
 
     /* font-weight: 400; */
     font-size: 16px;
@@ -63,16 +64,19 @@ nav ul {
 }
 
 button {
+    
     color: aliceblue;
     background-color: #FF900E;
     border-color: #FF900E;
-    padding: 10px 10px;
+    padding: 12px 20px;
     border-radius: 5px;
     margin-bottom: 30px;
 }
+
 .container-1 .tpb {
-    position:absolute;
-   width: auto;
+    position:absolute; 
+    margin-left: 240px;
+    margin-right: 240px;
 }
 
 .banner {
