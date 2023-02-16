@@ -175,6 +175,43 @@ button {
 /* container 3 tail ended */
 
 
+/* container-4 stated */
+
+.container-4{
+    position: relative;
+    bottom: 300px;
+    left: 130px;
+    width: 30%;
+}
+.blog-4 h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font:bolder;
+    font-size: xx-large;
+}
+.blog-4 p{
+    font-size: small;
+    color: #727272;
+}
+
+.container-4-icon{
+    position: relative;
+    left: 400px;
+    bottom: 250px;
+    display: flex;
+    width: 45%;
+    gap: 65px;
+   
+
+}
+.container-4-icon p{
+    font-size: small;
+    color: hsl(0, 2%, 25%);
+}
+.container-4-icon h2{
+    color: rgb(29, 28, 28);
+}
+
+
     
    
     
