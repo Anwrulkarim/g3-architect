@@ -92,4 +92,36 @@ button {
 
 
 }
+/* body container 1 styling end */
+
+/* body container-2 style started */
+
+.img-and-teams-blog{
+    justify-content:space-between;
+    width: 80%; 
+    border: 1px solid;
+    display: flex;
+    
+}
+.team-img{
+    width: 95%;
+    
+}
+.img-container{
+
+    display: grid;
+    grid-template-columns:repeat(2,300px);
+    
+    
+
+     
+}
+
+
+   
+
+
+
+   
+
 
