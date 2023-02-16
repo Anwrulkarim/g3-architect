@@ -119,3 +119,16 @@ button {
 
 }
 /* body container-2 style ended */
+.title-3{
+    font: ;
+    font-Weight:200;
+    font-Size:18px;
+
+
+}
+.container-3{
+    justify-content: space-between;
+}
+.blog-3-img{
+    display: flex;
+}
