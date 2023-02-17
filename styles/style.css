@@ -95,6 +95,7 @@ button {
 
 /* body container-2 style started */
 
+
 .img-and-teams-blog {
     justify-content: space-between;
     width: 80%;
@@ -105,15 +106,17 @@ button {
 }
 
 .team-img {
-    width: 95%;
+    width: 90%;
     border-radius: 2px;
 
 }
 
-.img-container {
+.Team-img {
 
     display: grid;
     grid-template-columns: repeat(2, 300px);
+    gap: 20px;
+    
 
 
 }
@@ -222,6 +225,7 @@ button {
 }
 .img-i{
     padding-left: 40px;
+    
 }
 .container-5-icon p {
     font-size: smaller;
@@ -269,6 +273,7 @@ button {
 .sponsors-logo img{
     width: 100px;
     margin: 60px;
+   
     
     
 }
@@ -297,6 +302,7 @@ button {
     bottom: 280px;
     left: 300px;
     
+    
 }
 .container-7-p h1 {
     font-weight: 500;
@@ -309,6 +315,8 @@ button {
     bottom: 90px;  
     width: 80px;
     height: 80px;
+
+
     
 
 }
@@ -321,6 +329,7 @@ button {
     padding: 12px 20px;
     border-radius: 5px;
     bottom: 100px;
+    
     
 }
 
