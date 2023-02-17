@@ -176,7 +176,7 @@ button {
 
 .container-4 {
     position: relative;
-    bottom: 300px;
+    bottom: 220px;
     left: 130px;
     width: 30%;
 }
@@ -195,8 +195,9 @@ button {
 
 .container-5{
     position: relative;
-    left: 260px;
-    bottom: 120px;
+    left: 120px;
+    bottom: 100px;
+    
     
 }
 
@@ -224,12 +225,11 @@ button {
 
 .container-5-icon .icon{
     
-    width: 150px;
-    height: 150px;
-    border: 1px solid #FF900E;
+    width: 130px;
+    height: 130px;
+    border: 1px solid #fc941eff;
     border-radius: 5px;
     padding: 20px;
-    margin: 10px;
-
+    margin: 50px;
 }
 
