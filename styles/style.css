@@ -193,16 +193,19 @@ button {
 }
 /* container 4 end */
 
+/* .container-5 started */
+
 .container-5{
     position: relative;
     left: 120px;
-    bottom: 100px;
+    bottom: 200px;
     
     
 }
 
 .container-5-icon {   
     display: flex;  
+    
 }
 .img-i{
     padding-left: 40px;
@@ -216,13 +219,11 @@ button {
     padding-left: 40px;
 }
 
-
 .container-5-icon h2 {
     color: rgb(29, 28, 28);
     padding-left: 40px;
     
 }
-
 .container-5-icon .icon{
     
     width: 130px;
@@ -233,9 +234,32 @@ button {
     margin: 50px;
     transition: width 1s, height 1s,transform 1s;
 }
+
 .container-5-icon .icon:hover{
     width: 50px;
     height: 50px;
     transform: scale(1.2);
     background-color:#FF900E; 
+}
+
+/* container 6 styling started */
+.sponsors-article{
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+    width: 70%;
+    text-align: center;
+}
+.sponsors-logo img{
+    width: 100px;
+    margin: 60px;
+    
+}
+.sponsors-article h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; ;   
+}
+.sponsors-article p{
+    font-size: small;
+   padding-bottom: ;
+    color: #727272;
 }
