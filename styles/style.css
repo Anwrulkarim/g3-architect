@@ -12,16 +12,23 @@ nav {
 }
 
 nav li {
-    font-size: 17px;
 
+    font-size: small;
+    font-weight: 400;
+    color: white;
+    border: 1px solid #FF900E;
+    border-radius: 3px;
+    background-color: #FF900E;
+    padding: 5px;
     list-style: none;
-    margin-right: 50px;
+    margin-right: 25px;
     margin-top: 17px;
 }
 
 nav ul {
     display: flex;
     margin-right: 100px;
+    
 }
 
 .title {
