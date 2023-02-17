@@ -191,23 +191,38 @@ button {
     font-size: small;
     color: #727272;
 }
+/* container 4 end */
 
-.container-4-icon {
-    position: relative;
-    left: 400px;
-    bottom: 250px;
-    display: flex;
-    width: 45%;
-    gap: 65px;
-
-
+.container-5-icon {   
+    display: flex;  
 }
-
-.container-4-icon p {
-    font-size: small;
+.img-i{
+    padding-left: 40px;
+}
+.container-5-icon p {
+    font-size: smaller;
+    padding-left: 10px;
     color: hsl(0, 2%, 25%);
 }
-
-.container-4-icon h2 {
-    color: rgb(29, 28, 28);
+#email-icon p {
+    padding-left: 40px;
 }
+
+
+.container-5-icon h2 {
+    color: rgb(29, 28, 28);
+    padding-left: 40px;
+    
+}
+
+.container-5-icon .icon{
+    
+    width: 150px;
+    height: 150px;
+    border: 1px solid #FF900E;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+
+}
+
