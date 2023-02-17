@@ -265,6 +265,12 @@ button {
 }
 .sponsors-article p{
     font-size: small;
-   padding-bottom: ;
     color: #727272;
+}
+.footer{
+    font-size: 90%;
+    color: #727272;
+    text-align: center;
+    position: relative;
+    bottom: 140px;
 }
