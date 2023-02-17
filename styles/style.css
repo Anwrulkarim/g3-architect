@@ -127,12 +127,15 @@ button {
     justify-content: space-between;
     color: #727272;
     width: 80%;
-    margin-left: 133px;
+    margin-left: 233px;
     margin-top: 100px;
 }
 
 .blog-3 {
     font-size: small;
+    width: 50%;
+    
+    
 }
 
 .blog-2 p {
@@ -150,8 +153,10 @@ button {
 }
 
 .architect-img img {
-    width: 100%;
-    height: 80%;
+    width: auto;
+    height: 73%;
+    
+    
 }
 
 /* <!-- container 3 tail started--> */
