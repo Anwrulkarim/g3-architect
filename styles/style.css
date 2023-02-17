@@ -201,6 +201,7 @@ button {
 /* .container-5 started */
 
 .container-5{
+    width: 80%;
     position: relative;
     left: 120px;
     bottom: 200px;
@@ -248,6 +249,7 @@ button {
 }
 
 /* container 6 styling started */
+
 .sponsors-article{
     position: relative;
     left: 200px;
@@ -255,9 +257,12 @@ button {
     width: 70%;
     text-align: center;
 }
+
+
 .sponsors-logo img{
     width: 100px;
     margin: 60px;
+    
     
 }
 .sponsors-article h1{
@@ -268,9 +273,12 @@ button {
     color: #727272;
 }
 .footer{
+   
     font-size: 90%;
     color: #727272;
     text-align: center;
+    margin-left: 50px;
     position: relative;
     bottom: 140px;
+    
 }
