@@ -272,13 +272,58 @@ button {
     
     
 }
-.sponsors-article h1{
+.sponsors-article h1 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; ;   
 }
 .sponsors-article p{
     font-size: small;
     color: #727272;
 }
+/* container 7 started */
+
+.container-7 img{
+    position: relative;
+    left: 140px;
+    bottom: 60px;
+    width: 80%;
+    height: 250px;
+}
+.container-7-p{
+    
+    width: 60%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; ; 
+    color:rgba(237, 234, 234, 0.992);
+    position: relative;
+    bottom: 280px;
+    left: 300px;
+    
+}
+.container-7-p h1 {
+    font-weight: 500;
+}
+
+
+.container-7-p img{
+    position: relative;
+    left:600px;
+    bottom: 90px;  
+    width: 80px;
+    height: 80px;
+    
+
+}
+.container-7-p Button{
+    font-size: medium;
+    color: aliceblue;
+    position: relative;
+    background-color: #fe5404;
+    border-color: #fe5404;
+    padding: 12px 20px;
+    border-radius: 5px;
+    bottom: 100px;
+    
+}
+
 .footer{
    
     font-size: 90%;
